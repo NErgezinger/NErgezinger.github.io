@@ -1,0 +1,27 @@
+html, body {
+    margin-top: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 100%;
+    font-family: Arial;
+    background-color: #000000;
+    color: #FFFFFF;
+  }
+
+a {
+  color: rgb(177, 202, 255); 
+}
+
+#contentinfo {
+  position: absolute;
+  bottom: 2%;
+}
+
+#post-list {
+  border-style: solid;
+  border-radius: 20px;
+}
+
+.hentry {
+  margin-bottom: 40px;
+}
