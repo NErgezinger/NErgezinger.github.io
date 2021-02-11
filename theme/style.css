@@ -8,6 +8,9 @@ html, body {
     color: #FFFFFF;
   }
 
+a {
+  color: rgb(21, 86, 226); 
+}
 
 #contentinfo {
   position: absolute;
